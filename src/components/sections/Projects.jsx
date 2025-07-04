@@ -39,7 +39,7 @@ export const Projects = () => {
               </div>
             <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://dashing-sprinkles-9ae9ae.netlify.app/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
@@ -157,7 +157,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center ">
                 <a
-                  href="#"
+                  href="https://github.com/SathwikaAkkala/Image-Steganography"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
